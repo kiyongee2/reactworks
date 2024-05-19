@@ -1,9 +1,13 @@
-yarn 사용
+>> yarn 사용
 npm i yarn
 yarn create react-app board
 yarn create react-app .(이미 board 폴더가 있는 경우)
 yarn start(실행)
+yarn add axis
 
-npx 사용
+https://jsonplaceholder.typicode.com/todos/1
+
+>> npx 사용
 npx create-react-app board
 npm start
+npm install axis
